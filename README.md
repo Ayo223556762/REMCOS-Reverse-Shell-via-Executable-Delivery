@@ -1,4 +1,4 @@
-# 🧪 Red Team Lab 1: REMCOS Reverse Shell via Executable Delivery
+# 🧪 Red Team Lab: REMCOS Reverse Shell via Executable Delivery
 
 This lab demonstrates a basic but effective red team exercise: delivering a raw Metasploit-generated .exe payload to a Windows 11 VM and catching a reverse Meterpreter shell using Kali Linux. This is a foundational training scenario focused on payload generation, listener setup, and reverse shell execution in a controlled virtual lab.
 
