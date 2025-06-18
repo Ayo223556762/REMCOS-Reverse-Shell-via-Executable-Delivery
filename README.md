@@ -53,9 +53,7 @@ run
 [*] Started reverse TCP handler on 192.168.56.101:4444
 [*] Meterpreter session 1 opened
 
-📸 Screenshot Checklist
-
-Upload these in your GitHub screenshots/ folder and reference them in the README if desired.
+## 📸 Screenshot Checklist
 
 Kali IP Config – ip a showing 192.168.56.101
 
@@ -73,21 +71,6 @@ File Explorer showing .exe – remcos_clone.exe on Desktop
 
 Metasploit Listener Output – session opened message
 
-📦 Folder Structure Example (for GitHub)
-
-red-team-lab-1-remcos/
-├── remcos_clone.exe   # (Optional - DO NOT upload real malware to GitHub)
-├── README.md
-└── screenshots/
-    ├── kali_ip.png
-    ├── payload_gen.png
-    ├── http_server.png
-    ├── windows_ip.png
-    ├── powershell_download.png
-    ├── defender_off.png
-    ├── file_explorer.png
-    └── metasploit_session.png
-
 ✅ Next Phase Ideas
 
 Re-delivery using HTA or macro Word doc
@@ -95,10 +78,4 @@ Re-delivery using HTA or macro Word doc
 Obfuscation with Veil or msbuild
 
 Persistence + privilege escalation
-
-🧠 Reminder
-
-Always do this in a safe, isolated lab. Never test raw or obfuscated malware on your host system or outside a VM.
-
-You're now ready to push this lab to GitHub as a clean, copy-pasteable starter red team repo 💥
 
